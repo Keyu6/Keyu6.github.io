@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year PHD candidate at School of Computing and Artificial Intelligence, Southwest Jiaotong University. My research interests include granular computing, data mining, and machine learning.
+I'm a fourth year PHD candidate at [School of Computing and Artificial Intelligence, Southwest Jiaotong University](https://scai.swjtu.edu.cn/index.html). My research interests include granular computing, data mining, and machine learning.
 
 
 
