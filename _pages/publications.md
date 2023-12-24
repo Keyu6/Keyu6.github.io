@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+More publications @ [DBLP](https://dblp.org/pid/205/0911.html)
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
