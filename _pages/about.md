@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey, thanks for stopping by! :heart:
+Hey, thanks for stopping by! 🥰
 
 About Me
 ======
