@@ -1,3 +1,5 @@
+Hey, thanks for stopping by! :heart:
+
 ---
 permalink: /
 title: "About me"
