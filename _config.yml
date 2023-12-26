@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Keyu Liu's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Keyu Liu"
 description              : &description "personal description"
