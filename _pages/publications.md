@@ -21,6 +21,14 @@ author_profile: true
 
 2020-     西南交通大学
 
+荣誉奖励
+======
+国奖奖学金
+
+江苏省优秀学术学位硕士学位论文
+
+西南交通大学博士生扬华新秀奖学金
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
