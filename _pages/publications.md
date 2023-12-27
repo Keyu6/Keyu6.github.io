@@ -11,7 +11,7 @@ author_profile: true
 
 论文成果
 ======
-论文成果信息可参见：[DBLP](https://dblp.org/pid/205/0911.html)。
+论文成果信息请参见：[DBLP](https://dblp.org/pid/205/0911.html)。
 
 教育经历
 ======
