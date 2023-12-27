@@ -13,6 +13,14 @@ author_profile: true
 ======
 论文成果信息可参见：[DBLP](https://dblp.org/pid/205/0911.html)。
 
+教育经历
+======
+2013-2017 江苏科技大学
+
+2017-2020 江苏科技大学
+
+2020-     西南交通大学
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
